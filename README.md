@@ -5,6 +5,6 @@ This project is designed as part of The Odin Project's wonderful Web Development
 ## Try it Out!
 This project is hosted on GitHub Pages. Feel free to [try it out](https://raineedust.github.io/odin-recipes/)!
 ## Tech Stack:
-HTML 5![HTML 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+HTML 5![HTML 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png|50)
 
 Built with :heart: to The Odin Project ~
