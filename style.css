@@ -4,10 +4,11 @@
 
 .heading {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
 }
 
 .title {
-    font-size: large;
+    font-size: 35px;
     color: green;
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif
