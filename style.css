@@ -1,15 +1,31 @@
 .body {
-    background-color: #DDBEA9;
+    background-color: #f1faee;
 }
 
 .heading {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 50px;
+    text-align: center;
+    color: #1d3557;
+}
+
+.img {
+    border-style: double;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .title {
     font-size: 35px;
-    color: green;
+    color: #457b9d;
     text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.menu {
+    color: #e63946;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
