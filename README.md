@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This repository offers the source code of a bare-bones website for displaying 3 Vegetarian-Friendly Recipes found on the Internet, otherwise known as **The Odin Restaurant Menu**.
+This webpage aims to provide 3 plant-based recipes found on the Internet, otherwise known as **Odin Recipes**.
 
 ## Motivation
 
