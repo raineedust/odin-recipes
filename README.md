@@ -18,5 +18,3 @@ This project is hosted on GitHub Pages. Feel free to [try it out](https://rainee
 Built with :heart: to The Odin Project ~
 
 Icons permitted for use by Smashicons from <a href="https://www.flaticon.com/free-icons/vegan" title="vegan icons">Flaticon</a>
-
-**Disclaimer**: While the author's project was inspired by a curriculum, only webpage specs were referenced and no hand-holding instructions were provided for the implementation.
