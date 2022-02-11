@@ -1,6 +1,6 @@
 # Odin Recipes
 
-This webpage aims to provide 3 plant-based recipes found on the Internet, otherwise known as **Odin Recipes**.
+**Odin Recipes** aims to provide 3 delicious plant-based recipes found on the Internet.
 
 ## Motivation
 
