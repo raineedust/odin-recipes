@@ -6,8 +6,8 @@
 
 This project is designed as part of The Odin Project's wonderful Web Development curriculum.
 
-- [ ] Use HTML and basic computing knowledge to structure the webpages
-- [ ] Provide basic styling with CSS
+- [x] Use HTML and basic computing knowledge to structure the webpages
+- [x] Provide basic styling with CSS
 
 ## Try it Out!
 
