@@ -2,9 +2,12 @@
 
 **Odin Recipes** aims to provide 3 delicious plant-based recipes found on the Internet.
 
-## Motivation
+## Motivation and Goals
 
 This project is designed as part of The Odin Project's wonderful Web Development curriculum.
+
+- [ ] Use HTML and basic computing knowledge to structure the webpages
+- [ ] Provide basic styling with CSS
 
 ## Try it Out!
 
