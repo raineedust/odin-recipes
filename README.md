@@ -15,6 +15,6 @@ This project is hosted on GitHub Pages. Feel free to [try it out](https://rainee
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width= 5% /> HTML5
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width= 5% /> CSS
 
-Built with :heart: to The Odin Project ~
+Icons permitted for use by Smashicons from <a href="https://www.flaticon.com/free-icons/vegan" title="vegan icons">Flaticon</a>.
 
-Icons permitted for use by Smashicons from <a href="https://www.flaticon.com/free-icons/vegan" title="vegan icons">Flaticon</a>
+Built with :heart: to The Odin Project ~
