@@ -9,9 +9,9 @@ This project is designed as part of **The Odin Project's** wonderful Web Develop
 - [x] Use HTML and basic computing knowledge to structure the webpages
 - [x] Perform basic styling with CSS
 
-## Try it Out!
+## Live Preview
 
-This project is hosted on GitHub Pages. Feel free to [try it out](https://raineedust.github.io/odin-recipes/)!
+This project is hosted on **GitHub Pages**. Feel free to [try it out](https://raineedust.github.io/odin-recipes/)!
 
 ## Tech Stack:
 
